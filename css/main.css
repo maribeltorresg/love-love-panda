@@ -1,0 +1,55 @@
+body {
+    font-family: 'Raleway';
+}
+img {
+    width: 100%;
+}
+.title-right{
+    background-color: #F48C68;
+    color: #ffffff;
+    text-align: right;
+}
+.main {
+    padding: 50px 30px;
+}
+.panda-image{
+    filter: grayscale(100%);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+.panda-principal {
+    background-image: url('../assets/img/uno.jpg');
+}
+.pinky-line{
+    height: 20px;
+    background-color: #F48C68;  
+}
+.green-text{
+    padding: 80px 0;
+    background-color: #ABE188;
+}
+.green-text .col-xs-4 {
+    background-color: #F48C68;
+    color: white;
+    padding: 20px;
+}
+.panda-2 {
+    background-image: url('../assets/img/dos.jpg');
+}
+.h2{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+.panda-gallery {
+    border: 10px solid #ffffff;
+    margin: 0 auto;
+    width: 80%;
+}
+.panda-3 {
+    background-image: url('../assets/img/tres.jpg');
+}
+footer{
+    padding: 20px;
+}
